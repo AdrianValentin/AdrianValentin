@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdrianValentin
-- 👀 I’m am currently studying Artificial Intelligence and Data at DTU in Denmark. 
-- 🌱 I’m currently learning about transformer learning in a reinforcement learning setting. 
+- 👀 I’m am currently studying my MSc. Humane Centered AI at DTU in Denmark. 
 
 
 <!---
